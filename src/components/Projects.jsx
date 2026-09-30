@@ -14,7 +14,7 @@ const projects = [
     ],
     live: "https://addis-eats-omega.vercel.app/",
     github:
-      "https://github.com/IBT-Qiyas-Full-Stack-Academy/sq6-weynshet-kebede-/tree/main/module-03-react-nextjs/project/addis-eats",
+      "https://github.com/weynshet5221/addis_eats",
   },
 
   {
@@ -48,7 +48,7 @@ const projects = [
     ],
     live: "https://addis-eats1-nu.vercel.app/",
     github:
-      "https://github.com/IBT-Qiyas-Full-Stack-Academy/sq6-weynshet-kebede-/tree/main/module-02-html-css-javascript/projects/addis-eats",
+      "https://github.com/weynshet5221/addis-eats1",
   },
 
   {
@@ -64,7 +64,7 @@ const projects = [
     ],
     live: null,
     github:
-      "https://github.com/IBT-Qiyas-Full-Stack-Academy/sq6-weynshet-kebede-/tree/main/module-01-foundation/project/project_1",
+      "https://github.com/weynshet5221/bank-transaction-system/tree/main/project_1",
   },
 ];
 
